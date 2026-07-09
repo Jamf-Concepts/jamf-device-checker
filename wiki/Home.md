@@ -1,8 +1,8 @@
-# [APP NAME]
+# Jamf Device Checker
 
-[One or two sentences describing what the app does and who it's for.]
+Jamf Device Checker helps end users verify their managed iOS device is ready for work — showing real-time status for OS version, required apps, battery, storage, connectivity, and performance in a simple visual dashboard.
 
-[![Available on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/[APP_STORE_ID])
+[![Available on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6761016825)
 
 ---
 

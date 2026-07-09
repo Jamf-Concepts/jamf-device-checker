@@ -1,11 +1,11 @@
 name: Feature Request
-description: Suggest a new feature or improvement for [APP NAME]
+description: Suggest a new feature or improvement for Jamf Device Checker
 labels: ["enhancement", "triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Have an idea to make [APP NAME] better? We'd love to hear it.
+        Have an idea to make Jamf Device Checker better? We'd love to hear it.
 
   - type: textarea
     id: problem

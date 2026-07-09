@@ -1,4 +1,4 @@
-**[APP NAME]**
+**Jamf Device Checker**
 
 - [[Home]]
 - [[Overview]]
@@ -9,6 +9,6 @@
 ---
 
 **Links**
-- [App Store](https://apps.apple.com/app/[APP_STORE_ID])
+- [App Store](https://apps.apple.com/app/id6761016825)
 - [Report a bug](../../issues/new?template=bug_report.yml)
 - [Request a feature](../../issues/new?template=feature_request.yml)

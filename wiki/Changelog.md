@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to [APP NAME] are documented here.
+All notable changes to Jamf Device Checker are documented here.
 
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
@@ -8,14 +8,14 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
-- [Upcoming changes can be noted here]
+- Upcoming changes can be noted here.
 
 ---
 
-## [1.0.0] - YYYY-MM-DD
+## [1.1.1] - 2026-07-09
 
 ### Added
-- Initial release
+- Initial public release on the Apple App Store.
 
 ---
 
