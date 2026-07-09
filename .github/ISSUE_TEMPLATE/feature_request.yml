@@ -1,0 +1,52 @@
+name: Feature Request
+description: Suggest a new feature or improvement for [APP NAME]
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to make [APP NAME] better? We'd love to hear it.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Need
+      description: What problem are you trying to solve, or what workflow gap does this address?
+      placeholder: "As an IT admin, I often need to... but currently I have to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the feature or change you'd like to see.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Any workarounds or alternative solutions you've tried or considered?
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority to You
+      options:
+        - Nice to have
+        - Would significantly improve my workflow
+        - Blocking — I can't use the app without this
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Screenshots, mockups, or any other helpful context.
+    validations:
+      required: false

@@ -1,0 +1,24 @@
+name: General Question
+description: Ask a question about [APP NAME]
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before asking, please check the [FAQ](../../blob/main/docs/faq.md) and [existing issues](../../issues) — your question may already be answered.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: What would you like to know?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Any background that helps us give a better answer — your environment, what you've already tried, etc.
+    validations:
+      required: false
