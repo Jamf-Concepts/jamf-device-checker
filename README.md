@@ -6,7 +6,11 @@
 
 > **This repository contains no source code.** It is an issue-tracking hub for the Jamf Device Checker app, available on the Apple App Store. Documentation lives on the [Jamf Concepts site](https://concepts.jamf.com/en/guides/jamf-for-mobile/jamf-device-checker/).
 
-[![Available on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6761016825)
+<p align="center">
+  <a href="https://apps.apple.com/app/id6761016825">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the App Store">
+  </a>
+</p>
 
 ---
 
