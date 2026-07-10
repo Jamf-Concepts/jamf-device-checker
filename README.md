@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/icon.png" alt="Jamf Device Checker" width="128">
+</p>
+
 # Jamf Device Checker
 
 > **This repository contains no source code.** It is an issue-tracking hub for the Jamf Device Checker app, available on the Apple App Store. Documentation lives on the [Jamf Concepts site](https://concepts.jamf.com/en/guides/jamf-for-mobile/jamf-device-checker/).
@@ -15,6 +19,28 @@ When an employee shows up ready to work, the last thing they should be doing is 
 ### How Jamf Device Checker Solves It
 
 Jamf Device Checker gives end users a single, at-a-glance dashboard that answers "is my device ready for work?" — no technical expertise required. Green, yellow, and red status tiles show OS version, required apps, battery health, storage, power, connectivity, thermal state, and performance, with clear guidance when something needs attention. Because the app is fully configured through Jamf Pro's Managed App Config, admins deploy it once and users get a self-service readiness check that reduces support tickets and keeps devices compliant.
+
+---
+
+## Screenshots
+
+### iPhone
+
+<p align="center">
+  <img src="assets/screenshot-iphone-1.png" width="22%">
+  <img src="assets/screenshot-iphone-2.png" width="22%">
+  <img src="assets/screenshot-iphone-3.png" width="22%">
+  <img src="assets/screenshot-iphone-4.png" width="22%">
+</p>
+
+### iPad
+
+<p align="center">
+  <img src="assets/screenshot-ipad-1.png" width="22%">
+  <img src="assets/screenshot-ipad-2.png" width="22%">
+  <img src="assets/screenshot-ipad-3.png" width="22%">
+  <img src="assets/screenshot-ipad-4.png" width="22%">
+</p>
 
 ---
 
