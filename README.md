@@ -1,6 +1,6 @@
 # Jamf Device Checker
 
-> **This repository contains no source code.** It is an issue-tracking hub for the Jamf Device Checker app, available on the Apple App Store. Documentation lives in the [wiki](../../wiki).
+> **This repository contains no source code.** It is an issue-tracking hub for the Jamf Device Checker app, available on the Apple App Store. Documentation lives on the [Jamf Concepts site](https://concepts.jamf.com/en/guides/jamf-for-mobile/jamf-device-checker/).
 
 [![Available on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6761016825)
 
@@ -20,12 +20,9 @@ Jamf Device Checker gives end users a single, at-a-glance dashboard that answers
 
 ## Documentation
 
-Full documentation lives in the [Wiki](../../wiki):
+Full documentation is available on the Jamf Concepts site:
 
-- [Overview](../../wiki/Overview) — Key features, use cases, and requirements
-- [Getting Started](../../wiki/Getting-Started) — Requirements, installation, and first-run setup
-- [FAQ](../../wiki/FAQ) — Common questions and answers
-- [Changelog](../../wiki/Changelog) — Release notes by version
+- [Jamf Device Checker Guide](https://concepts.jamf.com/en/guides/jamf-for-mobile/jamf-device-checker/)
 
 ---
 
