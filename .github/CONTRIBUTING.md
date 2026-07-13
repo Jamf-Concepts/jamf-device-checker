@@ -1,10 +1,10 @@
-# Contributing to [APP NAME]
+# Contributing to Jamf Device Checker
 
-Thanks for your interest in [APP NAME]!
+Thanks for your interest in Jamf Device Checker!
 
 ## This repository has no source code
 
-[APP NAME] is a closed-source app distributed exclusively through the Apple App Store. This repository exists as a public hub for:
+Jamf Device Checker is a closed-source app distributed exclusively through the Apple App Store. This repository exists as a public hub for:
 
 - **Documentation** — guides, FAQs, and release notes live in the [Wiki](../../wiki)
 - **Bug reports** — [file a bug](../issues/new?template=bug_report.yml) if something isn't working as expected

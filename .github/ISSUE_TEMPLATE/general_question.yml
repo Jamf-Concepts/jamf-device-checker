@@ -1,5 +1,5 @@
 name: General Question
-description: Ask a question about [APP NAME]
+description: Ask a question about Jamf Device Checker
 labels: ["question"]
 body:
   - type: markdown
