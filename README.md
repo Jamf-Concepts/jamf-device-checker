@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="assets/icon.png" alt="Jamf Device Checker" width="128">
-  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icon.png" alt="Jamf Device Checker" width="128"><br><br>
   <a href="https://apps.apple.com/app/id6761016825">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="128">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="48">
   </a>
 </p>
 
