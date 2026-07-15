@@ -72,3 +72,11 @@ Concepts take many forms: native Apple platform apps, web-based tools, utilities
 You can get involved by trying concepts, contributing to open-source projects, or sharing feedback via GitHub issues.
 
 Learn more at [concepts.jamf.com](https://concepts.jamf.com).
+
+---
+
+## License & Privacy
+
+This app is available through the Apple App Store and is subject to [Apple's standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). This repository contains no source code, releases, or packages — no additional license file applies.
+
+For information on how Jamf handles personal data, see the [Jamf Privacy Policy](https://www.jamf.com/privacy/).
