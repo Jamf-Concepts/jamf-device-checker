@@ -51,9 +51,6 @@ body:
       options:
         - iOS
         - iPadOS
-        - macOS
-        - visionOS
-        - Other
     validations:
       required: true
 
